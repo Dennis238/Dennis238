@@ -5,7 +5,7 @@
 <a> Hi, I’m Dennis, 
 - I’m interested in Web Develoment
 - Currently improving my skills at JavaScript
-- Looking to collaborate on a innovator project
+- Looking to collaborate in an innovator project
 - How to reach me: dennis.238@hotmail.com
 </a>
 
