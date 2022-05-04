@@ -6,6 +6,6 @@
 - I’m interested in Web Develoment
 - Currently improving my skills at JavaScript
 - Looking to collaborate in an innovator project
-- How to reach me: dennis.238@hotmail.com
+- How to reach out to me: dennis.238@hotmail.com
 </a>
 
